@@ -91,4 +91,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [Your Email Address] or visit my GitHub profile at [Your GitHub Username].
+For any questions or feedback, please contact Jacob Binu at jacobbinu4488code@gmail.com
