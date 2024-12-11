@@ -1,5 +1,6 @@
 # Mushroom Classification
 
+
 This project focuses on classifying mushrooms as either poisonous or edible using machine learning techniques.
 
 ## Dataset
